@@ -1,0 +1,1 @@
+# My Lineman Application    $ lineman run    $ node generated/js/app_cljs.js
